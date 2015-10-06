@@ -1,4 +1,4 @@
 # identifier
-## my monsters are better than yours!
+## some monsters are better than others!(?)
 
-![Test run of some monsters](https://raw.githubusercontent.com/nadia77/identifier/407c45cdf210a9ae901caa83a0b91b4b1a3e620c/example.jpeg)
+![Test run of some monsters](https://github.com/nadia77/identifier/blob/fc232fed8df221044af9fdb5da2812c34804ce10/final4866.png)
